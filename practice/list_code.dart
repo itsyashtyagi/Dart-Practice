@@ -31,12 +31,21 @@ void main() {
   //  var updatedList = list.forEach((item) => item * 2);
   // print(updatedList);
   var updatedList = list.map((item) => item * 2);
-  print(updatedList);
-  print(list);
+  // print(updatedList);
+  // print(list);
 
   // Where in list Dart
   List<int> numbers = [2, 4, 6, 8, 10, 11, 12, 13, 14, 15];
 
   List<int> even = numbers.where((number) => number.isEven).toList();
-  print(even);
+  // print(even);
+
+  // Excercise
+  var list2 = [1, 3, 5, 7, 9];
+  var sum = 0;
+  var sum2 = list2.map((item) {
+    return sum = sum + item;
+  }).toList();
+  print(sum);
+  print(sum2.last);
 }
