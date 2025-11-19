@@ -79,7 +79,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 8. Implementing the game loop
 9. Implementing the game logic
 
-## 6. Collections
+## 6. Collections - This is done
 
 1. Section Intro
 2. Lists
@@ -110,7 +110,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 4. Pseudocode for the processing logic
 5. Implementing the processing logic
 
-## 8. Dart Null Safety
+## 8. Dart Null Safety - This is done
 
 1. Introduction to Null Safety
 2. Nullable and non-nullable variables
