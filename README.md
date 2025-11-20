@@ -102,7 +102,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 19. **Exercise**: Shopping List
 20. Copying collections
 
-## 7. Project: Data Processing in Dart
+## 7. Project: Data Processing in Dart - This is done
 
 1. Section Intro
 2. Parsing command line arguments
