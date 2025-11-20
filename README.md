@@ -251,3 +251,5 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 1. BONUS Content: Free Dart eBook & Next Steps
 
 ### [LICENSE: MIT](LICENSE)
+
+<https://courses.codewithandrea.com/courses/1085485/lectures/31920591s>
