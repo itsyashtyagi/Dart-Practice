@@ -121,7 +121,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 7. Null Safety with collections
 8. The conditional access operator & the billion dollar mistake
 
-## 9. Functions: Basics
+## 9. Functions: Basics - This is done
 
 1. Section Intro
 2. Intro to functions
