@@ -137,7 +137,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 12. Inner Functions
 13. Global mutable state and functions with side effects
 
-## 10. Functions: Advanced
+## 10. Functions: Advanced - This is done
 
 1. Section Intro
 2. Anonymous functions
