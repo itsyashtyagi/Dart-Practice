@@ -154,7 +154,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 13. The `reduce` method
 14. Combining functional operators
 
-## 11. Classes: Basics
+## 11. Classes: Basics - This is done
 
 1. Section Intro
 2. Introduction to classes
