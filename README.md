@@ -173,7 +173,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 15. Private variables and methods
 16. Wrap up
 
-## 12. Classes: Advanced
+## 12. Classes: Advanced - This is done
 
 1. Section Intro
 2. VS Code Dart Setup with Null Safety
